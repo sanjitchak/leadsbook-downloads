@@ -1,10 +1,12 @@
 # LeadsBook — Extension Downloads
 
-Official download page for **Finest Clients Leads (LeadsBook)** for desktop Google Chrome.
+> [!IMPORTANT]
+> ## ⬇️ [DOWNLOAD LEADSBOOK — v16.0.30 (ZIP)](https://github.com/sanjitchak/leadsbook-downloads/releases/download/v16.0.30/finest-clients-leads-v16.0.30.zip)
+>
+> **Click the download link above, extract the ZIP, then follow the installation steps below.**
+> For desktop Google Chrome.
 
-## Download
-
-[**Download LeadsBook v16.0.30 (ZIP)**](https://github.com/sanjitchak/leadsbook-downloads/releases/download/v16.0.30/finest-clients-leads-v16.0.30.zip)
+Official download page for **Finest Clients Leads (LeadsBook)**.
 
 [Browse all releases](https://github.com/sanjitchak/leadsbook-downloads/releases)
 
@@ -42,4 +44,3 @@ Stop any active extension task first. Download and extract the new version, then
 ## Support
 
 For installation help, open an [issue](https://github.com/sanjitchak/leadsbook-downloads/issues) or email **support@finestclientsleads.com**. Never post passwords, access tokens, personal lead information, or private conversations.
-
