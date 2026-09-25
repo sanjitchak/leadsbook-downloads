@@ -1,7 +1,7 @@
 # LeadsBook — Extension Downloads
 
 > [!IMPORTANT]
-> ## ⬇️ [DOWNLOAD LEADSBOOK — v16.0.30 (ZIP)](https://github.com/sanjitchak/leadsbook-downloads/releases/download/v16.0.30/finest-clients-leads-v16.0.30.zip)
+> ## ⬇️ [DOWNLOAD LEADSBOOK — v16.0.31 (ZIP)](https://github.com/sanjitchak/leadsbook-downloads/releases/download/v16.0.31/finest-clients-leads-v16.0.31.zip)
 >
 > **Click the download link above, extract the ZIP, then follow the installation steps below.**
 > For desktop Google Chrome.
@@ -17,7 +17,7 @@ Official download page for **Finest Clients Leads (LeadsBook)**.
 3. Turn on **Developer mode** in the top-right corner.
 4. Click **Load unpacked**.
 5. Select the extracted folder that directly contains `manifest.json`. Do not select the ZIP file.
-6. Confirm **Finest Clients Leads** appears and shows version **16.0.30**.
+6. Confirm **Finest Clients Leads** appears and shows version **16.0.31**.
 7. Refresh your Facebook tab. Use Chrome's Extensions menu to access the extension; pin it if desired.
 
 Keep the extracted folder in place. Moving or deleting it can stop the extension from loading.
